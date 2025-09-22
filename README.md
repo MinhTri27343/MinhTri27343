@@ -1,6 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Đỗ Nguyễn Minh Trí</h1>
 <h3 align="center">A Software Engineer from  Ho Chi Minh City University of Science (HCMUS), Vietnam</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=MinhTri27343&color=blue)
 - 📫 How to reach me **minhtri26072005@gmail.com**
 
 ## 🌐 Connect with me:
